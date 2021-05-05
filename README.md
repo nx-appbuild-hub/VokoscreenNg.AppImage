@@ -1,0 +1,1 @@
+# VokoscreenNg.AppImage
